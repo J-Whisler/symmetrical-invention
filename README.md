@@ -1,1 +1,1 @@
-# symmetrical-invention
+console.log("Hello");
